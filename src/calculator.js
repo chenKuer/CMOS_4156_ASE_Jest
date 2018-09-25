@@ -11,12 +11,13 @@ export default class Calculator{
     return a-b;
   }
 
-  // demo: wrong function 
+  // demo: wrong return value for multiply function 
   multiply(a,b) {
     return a+b;
   }
 
   // division, if b === 0, the value should return 0
+  // for branch cover
   division(a,b) {
     if( b === 0) {
       return 0;
