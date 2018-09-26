@@ -26,7 +26,7 @@ it('Subtraction: 1 substraction 2 should equal to -1', () =>{
 });
 
 
-// branch cover
+// branch coverage
 
 it('Division, if b equals to 0, result should be 0', () => {
   const calculator = new Calculator();
@@ -37,6 +37,7 @@ it('Division, if b equals to 0, result should be 0', () => {
 
 // Error, multiply function is wrong
 // expect is different from expect
+
 // it('Multiply Function: 2 times 3 should return 6', ()=> {
 //   const calculator = new Calculator();
 //   expect(calculator.multiply(2,3)).toBe(6);
