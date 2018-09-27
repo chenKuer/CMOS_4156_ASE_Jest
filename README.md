@@ -1,4 +1,4 @@
-# CMOS_4156_ASE_Jest
+# COMS_4156_ASE_Jest
 This is a demo for Jest, a JavaScript Testing Tool. This demo is for CMOS 4156 Advanced Software Engineering.
 
 ## Jest
@@ -6,6 +6,10 @@ This is a demo for Jest, a JavaScript Testing Tool. This demo is for CMOS 4156 A
 Link: https://jestjs.io
 
 Jest is used by Facebook to test all JavaScript code including React applications. One of Jest's philosophies is to provide an integrated "zero-configuration" experience.
+
+Can used for ```JavaScript```, ```React```, ```Vue```, ```Node.js```
+- Front end
+- Back end
 
 ## Getting Started
 > link: https://jestjs.io/docs/en/getting-started.html
@@ -76,16 +80,16 @@ npm install
 npm test
 ```
 5. coverage report
-change the package.json script 
+change the package.json script
 ```
 "test": "jest"
-to 
+to
 "test": "jest --watchAll --coverage"
 ```
 
 ## Test
 
-More usage of Jest: 
+More usage of Jest:
 https://jestjs.io/docs/en/using-matchers
 
 1. Numbers

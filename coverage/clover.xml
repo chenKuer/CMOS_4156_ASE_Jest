@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1538055689598" clover="3.2.0">
-  <project timestamp="1538055689598" name="All files">
+<coverage generated="1538060453734" clover="3.2.0">
+  <project timestamp="1538060453734" name="All files">
     <metrics statements="7" coveredstatements="6" conditionals="2" coveredconditionals="2" methods="6" coveredmethods="5" elements="15" coveredelements="13" complexity="0" loc="7" ncloc="7" packages="1" files="2" classes="2">
       <file name="calculator.js" path="/Users/kuer/Documents/GitHub/CMOS_4156_ASE_Jest/src/calculator.js">
         <metrics statements="6" coveredstatements="5" conditionals="2" coveredconditionals="2" methods="4" coveredmethods="3"/>
