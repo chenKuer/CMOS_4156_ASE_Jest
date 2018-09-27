@@ -36,7 +36,7 @@ it('Division, if b equals to 0, result should be 0', () => {
   expect(calculator.division(0,2)).toBe(0);
   expect(calculator.division(0,0)).toBe(0);
 
-  // negative value?
+  // negative value
   expect(calculator.division(-4,4)).toBe(-1);
   expect(calculator.division(-1,-1)).toBe(1);
   expect(calculator.division(4, -1)).toBe(-4);

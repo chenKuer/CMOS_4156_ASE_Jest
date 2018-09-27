@@ -75,6 +75,13 @@ npm install
 ```
 npm test
 ```
+5. coverage report
+change the package.json script 
+```
+"test": "jest"
+to 
+"test": "jest --watchAll --coverage"
+```
 
 ## Test
 
